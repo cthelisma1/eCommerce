@@ -9,6 +9,9 @@ Description: For my Software Engineering class we had to develop a standalone Ja
 			 
 Additional:  Also created Use Cases, Sequence Diagrams and Tested in final document.
 
+SQLite:		If access to database is not connected make sure to add rs2xml.jar and 
+sqlite-jdbc-3.7.2.jar to the Library.
+
 Log-In Info: 
 
 		Customer
