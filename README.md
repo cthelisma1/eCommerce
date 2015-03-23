@@ -7,9 +7,10 @@ Description: For my Software Engineering class we had to develop a standalone Ja
 			 implemented logins for the Employees and Administrative side so they can
 			 adjust pricess and amount of products if need be and do other tasks.
 			 
-Additional:  Also created Use Cases, Sequence Diagrams and Tested.
+Additional:  Also created Use Cases, Sequence Diagrams and Tested in final document.
 
 Log-In Info: 
+
 		Customer
 			username: newkingz
 			     pin: 1111
